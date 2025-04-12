@@ -19,7 +19,7 @@ projects.forEach(project => {
 });
 
 // Resume Link - Replace with Your Actual Resume Link
-const resumeLink = "https://your-resume-link.com"; // 🟢 REPLACE with your resume link
+const resumeLink = "https://your-resume-link.com"; 
 document.getElementById("resume-link").setAttribute("href", resumeLink);
 
 // Contact Form Submission

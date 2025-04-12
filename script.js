@@ -18,7 +18,7 @@ projects.forEach(project => {
     projectsList.appendChild(li);
 });
 
-// Resume Link - Replace with Your Actual Resume Link
+// Resume Link 
 const resumeLink = "https://your-resume-link.com"; 
 document.getElementById("resume-link").setAttribute("href", resumeLink);
 
